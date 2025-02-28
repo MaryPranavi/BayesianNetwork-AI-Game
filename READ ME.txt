@@ -1,0 +1,23 @@
+Name : Mary Pranavi Allam
+UTA ID : 1002077034
+Programming language: Python 3
+
+File: p1.py for Task 1,
+	p2.py for Task 2,
+	p3.py for Task 3.
+
+Instructions to execute the program 
+
+command: 
+
+Task 1:
+python p1.py training_data.txt
+
+Task 2:
+python p2.py training_data.txt <Bt/Bf> <Gt/Gf> <Ct/Cf> <Ft/Ff>
+
+Task 3:
+python p3.py training_data.txt <query variable values> [given <evidence variable values>]
+Example: python p3.py training_data.txt Bt Gf given Ff
+
+Each task is written in three different files and output will also be displayed seperately.
